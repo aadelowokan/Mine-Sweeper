@@ -1,0 +1,5 @@
+/Users/adedayoadelowokan/AndroidStudioProjects/Assingment02_2819750/app/build/intermediates/classes/debug
+/Users/adedayoadelowokan/AndroidStudioProjects/Assingment02_2819750/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6658c117293958a7383bcbb346a57fefebf27ee4.jar
+/Users/adedayoadelowokan/AndroidStudioProjects/Assingment02_2819750/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-9f1e64d876fefdf1f6d0fd46544fc3d30d8e3b49.jar
+/Users/adedayoadelowokan/AndroidStudioProjects/Assingment02_2819750/app/build/intermediates/pre-dexed/debug/classes-165ae5587f6e5650bca7742bc6e0384e38f68b7e.jar
+/Users/adedayoadelowokan/AndroidStudioProjects/Assingment02_2819750/app/build/intermediates/pre-dexed/debug/classes-95114393fc33e4a7588cd398306539b75b8771da.jar
